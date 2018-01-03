@@ -1,6 +1,14 @@
 
 # Implement a Planning Search
 
+## Project Introduction
+
+In this project,
+
+A research review and an analyis of heuristics implemented are available in .pdf.
+
+Below are the project instructions.
+
 ## Synopsis
 
 This project includes skeletons for the classes and functions needed to solve deterministic logistics planning problems for an Air Cargo transport system using a planning search agent. 
