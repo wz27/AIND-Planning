@@ -3,7 +3,7 @@
 
 ## Project Introduction
 
-In this project, I will define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain discussed in the lectures. We will then set up the problems for search, experiment with various automatically generated heuristics, including planning graph heuristics, to solve the problems, and then provide an analysis of the results.
+In this project, I will define a group of problems in classical PDDL (Planning Domain Definition Language) for the air cargo domain discussed in lectures. I then set up the problems for search, experiment with various automatically generated heuristics, including planning graph heuristics, to solve the problems, and then provide an analysis of the results.
 
 A research review on three important historical developments in the field of AI planning and search, the relationships between them, and their impact on the field of AI as a whole, is available under research_review.pdf.
 
